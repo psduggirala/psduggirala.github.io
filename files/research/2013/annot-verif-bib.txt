@@ -1,0 +1,8 @@
+@inproceedings{duggirala2013verification,
+  title={Verification of annotated models from executions},
+  author={Duggirala, Parasara Sridhar and Mitra, Sayan and Viswanathan, Mahesh},
+  booktitle={Proceedings of the Eleventh ACM International Conference on Embedded Software},
+  pages={26},
+  year={2013},
+  organization={IEEE Press}
+}

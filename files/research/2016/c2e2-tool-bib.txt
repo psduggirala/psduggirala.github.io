@@ -1,0 +1,8 @@
+@inproceedings{fan2016automatic,
+  title={Automatic Reachability Analysis for Nonlinear Hybrid Models with C2E2},
+  author={Fan, Chuchu and Qi, Bolun and Mitra, Sayan and Viswanathan, Mahesh and Duggirala, Parasara Sridhar},
+  booktitle={International Conference on Computer Aided Verification},
+  pages={531--538},
+  year={2016},
+  organization={Springer International Publishing}
+}

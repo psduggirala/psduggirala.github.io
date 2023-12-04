@@ -1,0 +1,8 @@
+@inproceedings{duggirala2016tutorial,
+  title={Tutorial: Software tools for hybrid systems verification, transformation, and synthesis: C2E2, HyST, and TuLiP},
+  author={Duggirala, Parasara Sridhar and Fan, Chuchu and Potok, Matthew and Qi, Bolun and Mitra, Sayan and Viswanathan, Mahesh and Bak, Stanley and Bogomolov, Sergiy and Johnson, Taylor T and Nguyen, Luan Viet and others},
+  booktitle={Control Applications (CCA), 2016 IEEE Conference on},
+  pages={1024--1029},
+  year={2016},
+  organization={IEEE}
+}

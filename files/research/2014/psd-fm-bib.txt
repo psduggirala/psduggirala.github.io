@@ -1,0 +1,8 @@
+@inproceedings{duggirala2014temporal,
+  title={Temporal precedence checking for switched models and its application to a parallel landing protocol},
+  author={Duggirala, Parasara Sridhar and Wang, Le and Mitra, Sayan and Viswanathan, Mahesh and Mu{\~n}oz, C{\'e}sar},
+  booktitle={International Symposium on Formal Methods},
+  pages={215--229},
+  year={2014},
+  organization={Springer International Publishing}
+}

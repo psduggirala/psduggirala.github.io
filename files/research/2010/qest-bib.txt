@@ -1,0 +1,8 @@
+@inproceedings{duggirala2010theory,
+  title={On the theory of stochastic processors},
+  author={Duggirala, Parasara Sridhar and Mitra, Sayan and Kumar, Rakesh and Glazeski, Dean},
+  booktitle={Quantitative Evaluation of Systems (QEST), 2010 Seventh International Conference on the},
+  pages={292--301},
+  year={2010},
+  organization={IEEE}
+}
